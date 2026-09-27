@@ -11,7 +11,7 @@ version = "${version}"
 displayName = "${name}"
 description = "${description}"
 authors = "TestAuthor"
-logoFile = "assets/testmod/icon.png"
+${logoKey} = "assets/testmod/icon.png"
 
 [[dependencies.${id}]]
 modId = "neoforge"
